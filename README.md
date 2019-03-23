@@ -1,1 +1,1 @@
-# BlackWhiteChess
+﻿﻿# BlackWhiteChess1、四个结束条件：一方认输，双方无棋可下，一方违规操作，一方棋子被吃完
